@@ -140,23 +140,14 @@ li:hover{
 }
 
 
-.conts{
-    display:flex;
-    justify-content: center;
-    align-items: center;
-}
+
 .fielder{
   
     color: brown;
     font-family:'Abel', sans-serif;
 
 }
-.fielderings{
-   
-    width: 50%;
-    text-align: center;
-    padding: 10px;
-}
+
 .pictosss{
 
     width: 50%;
@@ -165,11 +156,12 @@ li:hover{
 }
 
 .chandr{
-    font-family: 'Alumni Sans', sans-serif;
+    font-family:'Abel', sans-serif;
+    font-weight: 100;
 }
 
 .peter{
-    width: 80%;
+    /* width: 80%; */
     font-family:'Abel', sans-serif;
     text-align: center;
 }
@@ -254,4 +246,14 @@ h2{
     background-size: 10px 10px;
     background-position: 0 0, 30px 30px;
     background-repeat: repeat;
+}
+
+.charm{
+    width: 80%;
+}
+
+.acads{
+    display:flex;
+    justify-content: center;
+    align-items: center;
 }
